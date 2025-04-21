@@ -1,0 +1,119 @@
+/* Container Styling */
+.register-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    font-family: 'Segoe UI', Arial, sans-serif;
+  }
+  
+  /* Heading Styling */
+  h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 30px;
+    color: #2c3e50; /* Dark blue-grey */
+    font-weight: 600;
+  }
+  
+  /* Form Group Styling */
+  .form-group {
+    margin-bottom: 25px;
+  }
+  
+  /* Label Styling */
+  .form-group label {
+    display: block;
+    font-weight: 500;
+    margin-bottom: 8px;
+    color: #34495e; /* Slightly lighter blue-grey */
+  }
+  
+  /* Input Control Styling */
+  .form-control {
+    width: 100%;
+    padding: 14px;
+    border: 2px solid #e0e0e0; /* Light grey border */
+    border-radius: 8px;
+    font-size: 15px;
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    outline: none;
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    background-color: #f8f9fa; /* Slightly off-white background */
+    color: #495057; /* Standard text color */
+  }
+  
+  /* Input Focus Styling */
+  .form-control:focus {
+    border-color: #3498db !important; /* Bright blue border on focus */
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.2) !important; /* Soft blue glow on focus */
+    background-color: white;
+  }
+  
+  /* Input Placeholder Styling */
+  .form-control::placeholder {
+    color: #adb5bd; /* Light grey for placeholder */
+    opacity: 1; /* Firefox */
+  }
+  
+  /* Validation State Styling */
+  .form-control.is-valid {
+    border-color: #2ecc71 !important; /* Green border for valid */
+  }
+  
+  .form-control.is-valid:focus {
+   box-shadow: 0 0 0 3px rgba(46, 204, 113, 0.2) !important; /* Soft green glow */
+  }
+  
+  .form-control.is-invalid {
+    border-color: #e74c3c !important; /* Red border for invalid */
+  }
+  
+  .form-control.is-invalid:focus {
+   box-shadow: 0 0 0 3px rgba(231, 76, 60, 0.2) !important; /* Soft red glow */
+  }
+  
+  
+  /* Error Message Styling */
+  .error-message {
+    color: #e74c3c; /* Red color for errors */
+    font-size: 12px;
+    margin-top: 6px; /* Space between input and error */
+    min-height: 1em; /* Prevent layout shift when messages appear/disappear */
+  }
+  
+  
+  /* Submit Button Styling */
+  .submit-button {
+    width: 100%;
+    padding: 16px;
+    background-color: #3498db; /* Bright blue */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.3s ease;
+    box-shadow: 0 4px 6px rgba(52, 152, 219, 0.2);
+  }
+  
+  .submit-button:hover:not(:disabled) {
+    background-color: #2980b9; /* Darker blue on hover */
+    transform: translateY(-2px); /* Slight lift effect */
+     box-shadow: 0 6px 12px rgba(52, 152, 219, 0.3);
+  }
+  
+  .submit-button:active:not(:disabled) {
+      transform: translateY(-1px); /* Slightly less lift on active */
+       box-shadow: 0 4px 8px rgba(52, 152, 219, 0.25);
+  }
+  
+  .submit-button:disabled {
+    background-color: #a5c9e2; /* Lighter, muted blue when disabled */
+    cursor: not-allowed;
+     box-shadow: none;
+     transform: none;
+  }

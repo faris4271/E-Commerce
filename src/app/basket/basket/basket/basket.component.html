@@ -1,0 +1,178 @@
+<style>
+    /* Overall Table Style */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        font-size: 16px;
+        text-align: left;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+        overflow: hidden;
+        background-color: #fff;
+    }
+
+    /* Header Style */
+    th {
+        background: linear-gradient(135deg, #b030cd, #6a0dad);
+        color: white;
+        font-weight: bold;
+        text-transform: uppercase;
+        padding: 15px;
+        font-size: 14px;
+        border-bottom: 2px solid #ddd;
+    }
+
+    /* Data Row Style */
+    td {
+        padding: 12px 15px;
+        border-bottom: 1px solid #f3f3f3;
+    }
+
+    /* Alternating Row Colors */
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    /* Hover Effect for Rows */
+    tr:hover {
+        background-color: #f1f1f1;
+        transition: background-color 0.3s ease;
+    }
+
+    /* Image Style */
+    img {
+        width: 60px;
+        height: 60px;
+        object-fit: cover;
+        border-radius: 4px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Button Styles */
+    .btn {
+        border-radius: 4px;
+        padding: 5px 10px;
+        font-size: 14px;
+        transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+
+    .btn:hover {
+        transform: scale(1.05);
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        color: white;
+        border: none;
+    }
+
+    .btn-danger {
+        background-color: #dc3545;
+        color: white;
+        border: none;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+        border: none;
+    }
+
+    /* Responsive Design */
+    @media screen and (max-width: 768px) {
+        table {
+            font-size: 14px;
+        }
+
+        th, td {
+            padding: 10px;
+        }
+
+        /* Stack table rows for mobile */
+        table, thead, tbody, th, td, tr {
+            display: block;
+        }
+
+        thead tr {
+            display: none;
+        }
+
+        tr {
+            margin-bottom: 15px;
+        }
+
+        td {
+            text-align: right;
+            padding-left: 50%;
+            position: relative;
+        }
+
+        td::before {
+            content: attr(data-label);
+            position: absolute;
+            left: 10px;
+            width: calc(50% - 20px);
+            text-align: left;
+            font-weight: bold;
+        }
+
+        img {
+            width: 50px;
+            height: 50px;
+        }
+    }
+
+    /* Checkout Button Alignment */
+    .checkout-container {
+        display: flex;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    .checkout-container .btn-primary {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+</style>
+
+<div class="container pt-5">
+    <table>
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Image</th>
+                <th>Description</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Total</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (item of basket.basketItem; track $index) {
+            <tr>
+                <td data-label="Product">{{item.name}}</td>
+                <td data-label="Image"><img src="{{'https://localhost:7178/'+item.image }}" alt="Product Image"></td>
+                <td data-label="Description">{{item.description}}</td>
+                <td data-label="Price">{{item.price | currency}} </td>
+                <td data-label="Quantity">
+                    <div class="d-flex justify-content-center align-items-center">
+                        <button (click)="decreament(item)" class="btn btn-secondary btn-sm"><i class="fa fa-minus"></i></button>
+                        <span class="mx-2">{{item.quantity}}</span>
+                        <button (click)="increament(item)" class="btn btn-danger btn-sm"><i class="fa fa-plus"></i></button>
+                    </div>
+                </td>
+                <td data-label="Total">{{(item.quantity*item.price)|currency}}</td>
+                <td data-label="Action"><button (click)="removeItem(item)" class="btn btn-danger"><i class="fa fa-trash"></i></button></td>
+            </tr>
+            }
+        </tbody>
+    </table>
+    <ng-container>
+        <app-ordertotal></app-ordertotal>
+    </ng-container>
+    <div class="checkout-container">
+        <a routerLink="/checkout" class="btn btn-primary">Checkout</a>
+    </div>
+</div>

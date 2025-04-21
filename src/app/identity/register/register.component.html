@@ -1,0 +1,101 @@
+<div class="register-container">
+    <h1>Register</h1>
+    <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+  
+      <!-- Username -->
+      <div class="form-group">
+        <label for="username">Username</label>
+        <input
+          class="form-control"
+          type="text"
+          id="username"
+          formControlName="username"
+          [class.is-valid]="username?.valid && (username?.dirty || username?.touched)"
+          [class.is-invalid]="shouldShowError(username)"
+          placeholder="Choose a unique username"
+        />
+        <!-- Use Angular's @if syntax -->
+        @if (shouldShowError(username)) {
+          <div class="error-message">
+            @if (username?.hasError('required')) {
+              <span>Username is required.</span>
+            }
+            <!-- Add other username specific errors here if needed -->
+          </div>
+        }
+      </div>
+  
+      <!-- Display Name -->
+      <div class="form-group">
+        <label for="displayName">Display Name</label>
+        <input
+          class="form-control"
+          type="text"
+          id="displayName"
+          formControlName="displayName"
+          [class.is-valid]="displayName?.valid && (displayName?.dirty || displayName?.touched)"
+          [class.is-invalid]="shouldShowError(displayName)"
+          placeholder="How you want to be known"
+        />
+        @if (shouldShowError(displayName)) {
+          <div class="error-message">
+            @if (displayName?.hasError('required')) {
+              <span>Display name is required.</span>
+            }
+          </div>
+        }
+      </div>
+  
+      <!-- Email -->
+      <div class="form-group">
+        <label for="email">Email</label>
+        <input
+          class="form-control"
+          type="email"
+          id="email"
+          formControlName="email"
+          [class.is-valid]="email?.valid && (email?.dirty || email?.touched)"
+          [class.is-invalid]="shouldShowError(email)"
+          placeholder="your.email@example.com"
+        />
+         @if (shouldShowError(email)) {
+          <div class="error-message">
+              @if (email?.hasError('required')) {
+                  <span>Email is required.</span>
+              } @else if (email?.hasError('email')) {
+                   <span>Please enter a valid email address.</span>
+              }
+          </div>
+        }
+      </div>
+  
+      <!-- Password -->
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input
+          class="form-control"
+          type="password"
+          id="password"
+          formControlName="password"
+          [class.is-valid]="password?.valid && (password?.dirty || password?.touched)"
+          [class.is-invalid]="shouldShowError(password)"
+          placeholder="Create a strong password"
+        />
+         @if (shouldShowError(password)) {
+          <div class="error-message">
+              @if (password?.hasError('required')) {
+                  <span>Password is required.</span>
+              } @else if (password?.hasError('pattern')) {
+                  <span>Password must be at least 8 characters long and include uppercase, lowercase, number, and special character ($!%*?&).</span>
+              }
+          </div>
+        }
+      </div>
+  
+      <!-- Submit Button -->
+      <button type="submit" class="submit-button" [disabled]="registerForm.invalid">
+        Register
+      </button>
+  
+    </form>
+  </div>

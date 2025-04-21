@@ -5,4 +5,6 @@ export const serverRoutes: ServerRoute[] = [
     path: '**',
     renderMode: RenderMode.Prerender
   }
+  
+  
 ];

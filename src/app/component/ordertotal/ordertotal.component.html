@@ -1,0 +1,18 @@
+@if(baskettotal) {
+<div class="order-summary">
+    <h2 class="order-summary-title">Order Summary</h2>
+    <div class="order-item">
+        <span class="order-item-label">Subtotal:</span>
+        <span class="order-item-value">{{baskettotal.Subtotal}}</span>
+    </div>
+    <div class="order-item">
+        <span class="order-item-label">Shipping:</span>
+        <span class="order-item-value">{{baskettotal.Shiping}}</span>
+    </div>
+    <hr class="order-divider" />
+    <div class="order-total">
+        <span class="order-total-label">Total:</span>
+        <span class="order-total-value">{{baskettotal.Total}}</span>
+    </div>
+</div>
+}
