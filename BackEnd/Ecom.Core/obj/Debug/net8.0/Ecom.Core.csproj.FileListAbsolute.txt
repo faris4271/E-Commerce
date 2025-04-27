@@ -1,0 +1,14 @@
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\bin\Debug\net8.0\Ecom.Core.deps.json
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\bin\Debug\net8.0\Ecom.Core.runtimeconfig.json
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\bin\Debug\net8.0\Ecom.Core.dll
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\bin\Debug\net8.0\Ecom.Core.pdb
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\Ecom.Core.csproj.AssemblyReference.cache
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\Ecom.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\Ecom.Core.AssemblyInfoInputs.cache
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\Ecom.Core.AssemblyInfo.cs
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\Ecom.Core.csproj.CoreCompileInputs.cache
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\Ecom.Core.dll
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\refint\Ecom.Core.dll
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\Ecom.Core.pdb
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\Ecom.Core.genruntimeconfig.cache
+C:\Users\sfars\OneDrive\Desktop\Ecom-App-.NET-8-With-Angular-master\Ecom.Core\obj\Debug\net8.0\ref\Ecom.Core.dll
