@@ -1,0 +1,424 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 13/616dWFinzLL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 13\616dWFinzLL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7JA8uE2HvgrATOPzQ1iXivca919\u002BObwqgnKHLPiZNSA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39253"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227JA8uE2HvgrATOPzQ1iXivca919\u002BObwqgnKHLPiZNSA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 13/616dWFinzLL._AC_SX679_.ozx8h4t4p6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 13\616dWFinzLL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ozx8h4t4p6"},{"Name":"integrity","Value":"sha256-7JA8uE2HvgrATOPzQ1iXivca919\u002BObwqgnKHLPiZNSA="},{"Name":"label","Value":"_content/Ecom.API/Images/Apple iPhone 13/616dWFinzLL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39253"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227JA8uE2HvgrATOPzQ1iXivca919\u002BObwqgnKHLPiZNSA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 13/71Is4AhUomL._AC_SX679_.92m204rlpb.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 13\71Is4AhUomL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"92m204rlpb"},{"Name":"integrity","Value":"sha256-z6NMz0haDBfqpwDeBIXTp0zlIgXMbnQ9cThtJi6Dah0="},{"Name":"label","Value":"_content/Ecom.API/Images/Apple iPhone 13/71Is4AhUomL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21779"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022z6NMz0haDBfqpwDeBIXTp0zlIgXMbnQ9cThtJi6Dah0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 13/71Is4AhUomL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 13\71Is4AhUomL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z6NMz0haDBfqpwDeBIXTp0zlIgXMbnQ9cThtJi6Dah0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21779"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022z6NMz0haDBfqpwDeBIXTp0zlIgXMbnQ9cThtJi6Dah0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 13/81OP29BhXLL._AC_SX679_.2yuw9m86m3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 13\81OP29BhXLL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2yuw9m86m3"},{"Name":"integrity","Value":"sha256-qiVo2aazasUdKOS\u002BZpl5UnbhmLOtnDTpOtb95Ek9jeY="},{"Name":"label","Value":"_content/Ecom.API/Images/Apple iPhone 13/81OP29BhXLL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23072"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qiVo2aazasUdKOS\u002BZpl5UnbhmLOtnDTpOtb95Ek9jeY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 13/81OP29BhXLL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 13\81OP29BhXLL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qiVo2aazasUdKOS\u002BZpl5UnbhmLOtnDTpOtb95Ek9jeY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23072"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qiVo2aazasUdKOS\u002BZpl5UnbhmLOtnDTpOtb95Ek9jeY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 15 Pro/616dWFinzLL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 15 Pro\616dWFinzLL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7JA8uE2HvgrATOPzQ1iXivca919\u002BObwqgnKHLPiZNSA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39253"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227JA8uE2HvgrATOPzQ1iXivca919\u002BObwqgnKHLPiZNSA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 15 Pro/616dWFinzLL._AC_SX679_.ozx8h4t4p6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 15 Pro\616dWFinzLL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ozx8h4t4p6"},{"Name":"integrity","Value":"sha256-7JA8uE2HvgrATOPzQ1iXivca919\u002BObwqgnKHLPiZNSA="},{"Name":"label","Value":"_content/Ecom.API/Images/Apple iPhone 15 Pro/616dWFinzLL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39253"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227JA8uE2HvgrATOPzQ1iXivca919\u002BObwqgnKHLPiZNSA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 15 Pro/71Is4AhUomL._AC_SX679_.92m204rlpb.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 15 Pro\71Is4AhUomL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"92m204rlpb"},{"Name":"integrity","Value":"sha256-z6NMz0haDBfqpwDeBIXTp0zlIgXMbnQ9cThtJi6Dah0="},{"Name":"label","Value":"_content/Ecom.API/Images/Apple iPhone 15 Pro/71Is4AhUomL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21779"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022z6NMz0haDBfqpwDeBIXTp0zlIgXMbnQ9cThtJi6Dah0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 15 Pro/71Is4AhUomL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 15 Pro\71Is4AhUomL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z6NMz0haDBfqpwDeBIXTp0zlIgXMbnQ9cThtJi6Dah0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21779"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022z6NMz0haDBfqpwDeBIXTp0zlIgXMbnQ9cThtJi6Dah0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 15 Pro/81OP29BhXLL._AC_SX679_.2yuw9m86m3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 15 Pro\81OP29BhXLL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2yuw9m86m3"},{"Name":"integrity","Value":"sha256-qiVo2aazasUdKOS\u002BZpl5UnbhmLOtnDTpOtb95Ek9jeY="},{"Name":"label","Value":"_content/Ecom.API/Images/Apple iPhone 15 Pro/81OP29BhXLL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23072"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qiVo2aazasUdKOS\u002BZpl5UnbhmLOtnDTpOtb95Ek9jeY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Apple iPhone 15 Pro/81OP29BhXLL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Apple iPhone 15 Pro\81OP29BhXLL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qiVo2aazasUdKOS\u002BZpl5UnbhmLOtnDTpOtb95Ek9jeY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"23072"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qiVo2aazasUdKOS\u002BZpl5UnbhmLOtnDTpOtb95Ek9jeY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix G16/713o1MrAdrL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix G16\713o1MrAdrL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7fueE6eWs9NLv5Tr3U8bZrLAjOcDwgRaoHp7C4pUV4g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37951"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227fueE6eWs9NLv5Tr3U8bZrLAjOcDwgRaoHp7C4pUV4g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix G16/713o1MrAdrL._AC_SX679_.pppfkifr1k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix G16\713o1MrAdrL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pppfkifr1k"},{"Name":"integrity","Value":"sha256-7fueE6eWs9NLv5Tr3U8bZrLAjOcDwgRaoHp7C4pUV4g="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG Strix G16/713o1MrAdrL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37951"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227fueE6eWs9NLv5Tr3U8bZrLAjOcDwgRaoHp7C4pUV4g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix G16/71UZ4hlwT3L._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix G16\71UZ4hlwT3L._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aonVj6j6prJWLOVZQTgYkFqyWXJxIXvxDkUmJAw9WgM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"42500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aonVj6j6prJWLOVZQTgYkFqyWXJxIXvxDkUmJAw9WgM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix G16/71UZ4hlwT3L._AC_SX679_.yqiyy1vknh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix G16\71UZ4hlwT3L._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yqiyy1vknh"},{"Name":"integrity","Value":"sha256-aonVj6j6prJWLOVZQTgYkFqyWXJxIXvxDkUmJAw9WgM="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG Strix G16/71UZ4hlwT3L._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aonVj6j6prJWLOVZQTgYkFqyWXJxIXvxDkUmJAw9WgM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix G16/71Z3SNa-3rL._AC_SX679_.9t8qzg55a3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix G16\71Z3SNa-3rL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9t8qzg55a3"},{"Name":"integrity","Value":"sha256-HYJmP0EIAn8F/z5UgWfF\u002BGBP\u002BV2hCzy3fsy/PMG3Lns="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG Strix G16/71Z3SNa-3rL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36502"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HYJmP0EIAn8F/z5UgWfF\u002BGBP\u002BV2hCzy3fsy/PMG3Lns=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix G16/71Z3SNa-3rL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix G16\71Z3SNa-3rL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HYJmP0EIAn8F/z5UgWfF\u002BGBP\u002BV2hCzy3fsy/PMG3Lns="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36502"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HYJmP0EIAn8F/z5UgWfF\u002BGBP\u002BV2hCzy3fsy/PMG3Lns=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix/713o1MrAdrL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix\713o1MrAdrL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7fueE6eWs9NLv5Tr3U8bZrLAjOcDwgRaoHp7C4pUV4g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37951"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227fueE6eWs9NLv5Tr3U8bZrLAjOcDwgRaoHp7C4pUV4g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix/713o1MrAdrL._AC_SX679_.pppfkifr1k.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix\713o1MrAdrL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pppfkifr1k"},{"Name":"integrity","Value":"sha256-7fueE6eWs9NLv5Tr3U8bZrLAjOcDwgRaoHp7C4pUV4g="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG Strix/713o1MrAdrL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37951"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227fueE6eWs9NLv5Tr3U8bZrLAjOcDwgRaoHp7C4pUV4g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix/71UZ4hlwT3L._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix\71UZ4hlwT3L._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aonVj6j6prJWLOVZQTgYkFqyWXJxIXvxDkUmJAw9WgM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"42500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aonVj6j6prJWLOVZQTgYkFqyWXJxIXvxDkUmJAw9WgM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix/71UZ4hlwT3L._AC_SX679_.yqiyy1vknh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix\71UZ4hlwT3L._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yqiyy1vknh"},{"Name":"integrity","Value":"sha256-aonVj6j6prJWLOVZQTgYkFqyWXJxIXvxDkUmJAw9WgM="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG Strix/71UZ4hlwT3L._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022aonVj6j6prJWLOVZQTgYkFqyWXJxIXvxDkUmJAw9WgM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix/71Z3SNa-3rL._AC_SX679_.9t8qzg55a3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix\71Z3SNa-3rL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9t8qzg55a3"},{"Name":"integrity","Value":"sha256-HYJmP0EIAn8F/z5UgWfF\u002BGBP\u002BV2hCzy3fsy/PMG3Lns="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG Strix/71Z3SNa-3rL._AC_SX679_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"36502"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HYJmP0EIAn8F/z5UgWfF\u002BGBP\u002BV2hCzy3fsy/PMG3Lns=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG Strix/71Z3SNa-3rL._AC_SX679_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG Strix\71Z3SNa-3rL._AC_SX679_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HYJmP0EIAn8F/z5UgWfF\u002BGBP\u002BV2hCzy3fsy/PMG3Lns="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"36502"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HYJmP0EIAn8F/z5UgWfF\u002BGBP\u002BV2hCzy3fsy/PMG3Lns=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG TUF/51btJzcsbYL._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG TUF\51btJzcsbYL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG TUF/51btJzcsbYL._AC_SX466_.z1hxxlf4sf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG TUF\51btJzcsbYL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z1hxxlf4sf"},{"Name":"integrity","Value":"sha256-l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG TUF/51btJzcsbYL._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG TUF/61M831oph0L._AC_SX466_.ft1c7qqzol.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG TUF\61M831oph0L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ft1c7qqzol"},{"Name":"integrity","Value":"sha256-zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG TUF/61M831oph0L._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15928"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG TUF/61M831oph0L._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG TUF\61M831oph0L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15928"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG TUF/61OYRwzcUoL._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG TUF\61OYRwzcUoL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22811"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG TUF/61OYRwzcUoL._AC_SX466_.k0bhys7z22.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG TUF\61OYRwzcUoL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k0bhys7z22"},{"Name":"integrity","Value":"sha256-BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG TUF/61OYRwzcUoL._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22811"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG ZEPHRA/51btJzcsbYL._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG ZEPHRA\51btJzcsbYL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG ZEPHRA/51btJzcsbYL._AC_SX466_.z1hxxlf4sf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG ZEPHRA\51btJzcsbYL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z1hxxlf4sf"},{"Name":"integrity","Value":"sha256-l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG ZEPHRA/51btJzcsbYL._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG ZEPHRA/61M831oph0L._AC_SX466_.ft1c7qqzol.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG ZEPHRA\61M831oph0L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ft1c7qqzol"},{"Name":"integrity","Value":"sha256-zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG ZEPHRA/61M831oph0L._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15928"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG ZEPHRA/61M831oph0L._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG ZEPHRA\61M831oph0L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15928"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG ZEPHRA/61OYRwzcUoL._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG ZEPHRA\61OYRwzcUoL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22811"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS ROG ZEPHRA/61OYRwzcUoL._AC_SX466_.k0bhys7z22.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS ROG ZEPHRA\61OYRwzcUoL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k0bhys7z22"},{"Name":"integrity","Value":"sha256-BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS ROG ZEPHRA/61OYRwzcUoL._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22811"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS TUF Dash 15 (2022)/312.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS TUF Dash 15 (2022)\312.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HRkvA5P/YI1lgSg\u002BBOIynaOnl/kRfpEqqIlmsJt00c8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"28767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HRkvA5P/YI1lgSg\u002BBOIynaOnl/kRfpEqqIlmsJt00c8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS TUF Dash 15 (2022)/312.ppkdnyv5cq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS TUF Dash 15 (2022)\312.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ppkdnyv5cq"},{"Name":"integrity","Value":"sha256-HRkvA5P/YI1lgSg\u002BBOIynaOnl/kRfpEqqIlmsJt00c8="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS TUF Dash 15 (2022)/312.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HRkvA5P/YI1lgSg\u002BBOIynaOnl/kRfpEqqIlmsJt00c8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS TUF Dash 15 (2022)/71uFCV0PnSL._AC_SX466_.2hec8y4ni9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS TUF Dash 15 (2022)\71uFCV0PnSL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2hec8y4ni9"},{"Name":"integrity","Value":"sha256-RqTphDPq1EV2Xq6rDYc0ae0AUI5KLAdtFmF/3ChRuzY="},{"Name":"label","Value":"_content/Ecom.API/Images/ASUS TUF Dash 15 (2022)/71uFCV0PnSL._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39433"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022RqTphDPq1EV2Xq6rDYc0ae0AUI5KLAdtFmF/3ChRuzY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/ASUS TUF Dash 15 (2022)/71uFCV0PnSL._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\ASUS TUF Dash 15 (2022)\71uFCV0PnSL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RqTphDPq1EV2Xq6rDYc0ae0AUI5KLAdtFmF/3ChRuzY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39433"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022RqTphDPq1EV2Xq6rDYc0ae0AUI5KLAdtFmF/3ChRuzY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Casio Men's/61nHUVwR65L._AC_SY695_.fek97untpf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Casio Men's\61nHUVwR65L._AC_SY695_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fek97untpf"},{"Name":"integrity","Value":"sha256-eeFJAV7r6\u002B7w\u002BFv9774BRwxvPct56K4846Y8E3KoJSw="},{"Name":"label","Value":"_content/Ecom.API/Images/Casio Men\u0027s/61nHUVwR65L._AC_SY695_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46458"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eeFJAV7r6\u002B7w\u002BFv9774BRwxvPct56K4846Y8E3KoJSw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Casio Men's/61nHUVwR65L._AC_SY695_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Casio Men's\61nHUVwR65L._AC_SY695_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eeFJAV7r6\u002B7w\u002BFv9774BRwxvPct56K4846Y8E3KoJSw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"46458"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eeFJAV7r6\u002B7w\u002BFv9774BRwxvPct56K4846Y8E3KoJSw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Casio Men's/61ud-2mLi0L.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Casio Men's\61ud-2mLi0L.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9wZ90uKzgN/i9jRdk2\u002BQpo\u002BNPxd2\u002B5V168iD6ryvIfY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"129620"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229wZ90uKzgN/i9jRdk2\u002BQpo\u002BNPxd2\u002B5V168iD6ryvIfY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Casio Men's/61ud-2mLi0L.x69askk0wr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Casio Men's\61ud-2mLi0L.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x69askk0wr"},{"Name":"integrity","Value":"sha256-9wZ90uKzgN/i9jRdk2\u002BQpo\u002BNPxd2\u002B5V168iD6ryvIfY="},{"Name":"label","Value":"_content/Ecom.API/Images/Casio Men\u0027s/61ud-2mLi0L.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"129620"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00229wZ90uKzgN/i9jRdk2\u002BQpo\u002BNPxd2\u002B5V168iD6ryvIfY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Casio Men's/71tkEvnl+uL.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Casio Men's\71tkEvnl+uL.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-d4pfRzksgfiuUgguxkWgUV8NlhgtKuUF6Miq6aE7QnI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"164525"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022d4pfRzksgfiuUgguxkWgUV8NlhgtKuUF6Miq6aE7QnI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Casio Men's/71tkEvnl+uL.lde3q0jida.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Casio Men's\71tkEvnl+uL.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lde3q0jida"},{"Name":"integrity","Value":"sha256-d4pfRzksgfiuUgguxkWgUV8NlhgtKuUF6Miq6aE7QnI="},{"Name":"label","Value":"_content/Ecom.API/Images/Casio Men\u0027s/71tkEvnl\u002BuL.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"164525"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022d4pfRzksgfiuUgguxkWgUV8NlhgtKuUF6Miq6aE7QnI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/FOSSiBOT F106 Pro/710j6Ztq4uL._AC_SX522_.hubrrniyyk.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\FOSSiBOT F106 Pro\710j6Ztq4uL._AC_SX522_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hubrrniyyk"},{"Name":"integrity","Value":"sha256-ucuRySJR21NFn26bQHykdT2kh/Ocu\u002BXa9zEtOA4/s34="},{"Name":"label","Value":"_content/Ecom.API/Images/FOSSiBOT F106 Pro/710j6Ztq4uL._AC_SX522_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62807"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ucuRySJR21NFn26bQHykdT2kh/Ocu\u002BXa9zEtOA4/s34=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/FOSSiBOT F106 Pro/710j6Ztq4uL._AC_SX522_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\FOSSiBOT F106 Pro\710j6Ztq4uL._AC_SX522_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ucuRySJR21NFn26bQHykdT2kh/Ocu\u002BXa9zEtOA4/s34="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"62807"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ucuRySJR21NFn26bQHykdT2kh/Ocu\u002BXa9zEtOA4/s34=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/FOSSiBOT F106 Pro/71Z4CHV1H8L._AC_SX522_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\FOSSiBOT F106 Pro\71Z4CHV1H8L._AC_SX522_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Zz\u002BwFp8\u002Bfp445G7uhA8boIlZI1V1auuua53KcuouyXU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41623"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Zz\u002BwFp8\u002Bfp445G7uhA8boIlZI1V1auuua53KcuouyXU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/FOSSiBOT F106 Pro/71Z4CHV1H8L._AC_SX522_.vigvmtzpqh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\FOSSiBOT F106 Pro\71Z4CHV1H8L._AC_SX522_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vigvmtzpqh"},{"Name":"integrity","Value":"sha256-Zz\u002BwFp8\u002Bfp445G7uhA8boIlZI1V1auuua53KcuouyXU="},{"Name":"label","Value":"_content/Ecom.API/Images/FOSSiBOT F106 Pro/71Z4CHV1H8L._AC_SX522_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41623"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Zz\u002BwFp8\u002Bfp445G7uhA8boIlZI1V1auuua53KcuouyXU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/FOSSiBOT F106 Pro/814xiTIPUfL._AC_SX522_.9z0uadyzbn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\FOSSiBOT F106 Pro\814xiTIPUfL._AC_SX522_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9z0uadyzbn"},{"Name":"integrity","Value":"sha256-iyGmH9p70CCJg6su1ToKFwPuE56EipvyUQwoU\u002BDrQ1g="},{"Name":"label","Value":"_content/Ecom.API/Images/FOSSiBOT F106 Pro/814xiTIPUfL._AC_SX522_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"67787"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022iyGmH9p70CCJg6su1ToKFwPuE56EipvyUQwoU\u002BDrQ1g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/FOSSiBOT F106 Pro/814xiTIPUfL._AC_SX522_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\FOSSiBOT F106 Pro\814xiTIPUfL._AC_SX522_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iyGmH9p70CCJg6su1ToKFwPuE56EipvyUQwoU\u002BDrQ1g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"67787"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022iyGmH9p70CCJg6su1ToKFwPuE56EipvyUQwoU\u002BDrQ1g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/FOSSiBOT F106 Pro/81Y9KfGlHoL._AC_SX522_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\FOSSiBOT F106 Pro\81Y9KfGlHoL._AC_SX522_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tf1Z6AopKjetqmtncPoDjtKh6W9NEb2M0Qd2NwO8yrg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"66956"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tf1Z6AopKjetqmtncPoDjtKh6W9NEb2M0Qd2NwO8yrg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/FOSSiBOT F106 Pro/81Y9KfGlHoL._AC_SX522_.ndeeam68l4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\FOSSiBOT F106 Pro\81Y9KfGlHoL._AC_SX522_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ndeeam68l4"},{"Name":"integrity","Value":"sha256-tf1Z6AopKjetqmtncPoDjtKh6W9NEb2M0Qd2NwO8yrg="},{"Name":"label","Value":"_content/Ecom.API/Images/FOSSiBOT F106 Pro/81Y9KfGlHoL._AC_SX522_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"66956"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tf1Z6AopKjetqmtncPoDjtKh6W9NEb2M0Qd2NwO8yrg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/HP Victus 15.6 i5 Gaming/61M831oph0L._AC_SX466_.ft1c7qqzol.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\HP Victus 15.6 i5 Gaming\61M831oph0L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ft1c7qqzol"},{"Name":"integrity","Value":"sha256-zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74="},{"Name":"label","Value":"_content/Ecom.API/Images/HP Victus 15.6 i5 Gaming/61M831oph0L._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15928"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/HP Victus 15.6 i5 Gaming/61M831oph0L._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\HP Victus 15.6 i5 Gaming\61M831oph0L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15928"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/HP Victus 15.6 i5 Gaming/61OYRwzcUoL._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\HP Victus 15.6 i5 Gaming\61OYRwzcUoL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22811"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/HP Victus 15.6 i5 Gaming/61OYRwzcUoL._AC_SX466_.k0bhys7z22.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\HP Victus 15.6 i5 Gaming\61OYRwzcUoL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k0bhys7z22"},{"Name":"integrity","Value":"sha256-BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw="},{"Name":"label","Value":"_content/Ecom.API/Images/HP Victus 15.6 i5 Gaming/61OYRwzcUoL._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22811"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Lenovo Legion Pro/51btJzcsbYL._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Lenovo Legion Pro\51btJzcsbYL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Lenovo Legion Pro/51btJzcsbYL._AC_SX466_.z1hxxlf4sf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Lenovo Legion Pro\51btJzcsbYL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z1hxxlf4sf"},{"Name":"integrity","Value":"sha256-l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg="},{"Name":"label","Value":"_content/Ecom.API/Images/Lenovo Legion Pro/51btJzcsbYL._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12892"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022l/lXhcKYtTs1Xw7bi9W7QHe14h6gzr4r6/5nm7VVcFg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Lenovo Legion Pro/61M831oph0L._AC_SX466_.ft1c7qqzol.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Lenovo Legion Pro\61M831oph0L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ft1c7qqzol"},{"Name":"integrity","Value":"sha256-zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74="},{"Name":"label","Value":"_content/Ecom.API/Images/Lenovo Legion Pro/61M831oph0L._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15928"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Lenovo Legion Pro/61M831oph0L._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Lenovo Legion Pro\61M831oph0L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15928"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zfz4kswT/bbKUAlG9uwWuKvGNX69tWtPCplrQzzDP74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Lenovo Legion Pro/61OYRwzcUoL._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Lenovo Legion Pro\61OYRwzcUoL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"22811"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/Lenovo Legion Pro/61OYRwzcUoL._AC_SX466_.k0bhys7z22.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Lenovo Legion Pro\61OYRwzcUoL._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k0bhys7z22"},{"Name":"integrity","Value":"sha256-BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw="},{"Name":"label","Value":"_content/Ecom.API/Images/Lenovo Legion Pro/61OYRwzcUoL._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22811"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022BNRTURi2XrEY\u002Bs8mKDYaglvuvU4QqlSjZ3QK\u002BXz0thw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/newAsus/Everything_you_need_to_know_about_Angular_Ivy_landing_page.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\newAsus\Everything_you_need_to_know_about_Angular_Ivy_landing_page.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ERxIX4w9bVKZQxqd2\u002Bp1/P/SbFZGyHG2m7dWJn8RnVo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30753"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ERxIX4w9bVKZQxqd2\u002Bp1/P/SbFZGyHG2m7dWJn8RnVo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/newAsus/Everything_you_need_to_know_about_Angular_Ivy_landing_page.rpd26b68jm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\newAsus\Everything_you_need_to_know_about_Angular_Ivy_landing_page.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rpd26b68jm"},{"Name":"integrity","Value":"sha256-ERxIX4w9bVKZQxqd2\u002Bp1/P/SbFZGyHG2m7dWJn8RnVo="},{"Name":"label","Value":"_content/Ecom.API/Images/newAsus/Everything_you_need_to_know_about_Angular_Ivy_landing_page.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30753"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ERxIX4w9bVKZQxqd2\u002Bp1/P/SbFZGyHG2m7dWJn8RnVo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/newAsus/wallpaperflare.com_wallpaper (1).ckq9trg9i5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\newAsus\wallpaperflare.com_wallpaper (1).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ckq9trg9i5"},{"Name":"integrity","Value":"sha256-REjr7BWN4EeaYixuHy9ZyPj88v91n498LSclHpRk53Y="},{"Name":"label","Value":"_content/Ecom.API/Images/newAsus/wallpaperflare.com_wallpaper (1).jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"449400"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022REjr7BWN4EeaYixuHy9ZyPj88v91n498LSclHpRk53Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/newAsus/wallpaperflare.com_wallpaper (1).jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\newAsus\wallpaperflare.com_wallpaper (1).jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-REjr7BWN4EeaYixuHy9ZyPj88v91n498LSclHpRk53Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"449400"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022REjr7BWN4EeaYixuHy9ZyPj88v91n498LSclHpRk53Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/tester/71ixrysoD1L._AC_SX466_.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\tester\71ixrysoD1L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HRkvA5P/YI1lgSg\u002BBOIynaOnl/kRfpEqqIlmsJt00c8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"28767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HRkvA5P/YI1lgSg\u002BBOIynaOnl/kRfpEqqIlmsJt00c8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Ecom.API/Images/tester/71ixrysoD1L._AC_SX466_.ppkdnyv5cq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\tester\71ixrysoD1L._AC_SX466_.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ppkdnyv5cq"},{"Name":"integrity","Value":"sha256-HRkvA5P/YI1lgSg\u002BBOIynaOnl/kRfpEqqIlmsJt00c8="},{"Name":"label","Value":"_content/Ecom.API/Images/tester/71ixrysoD1L._AC_SX466_.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"28767"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HRkvA5P/YI1lgSg\u002BBOIynaOnl/kRfpEqqIlmsJt00c8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 24 Apr 2025 17:09:59 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
